@@ -1,4 +1,4 @@
-
+# Chương trình hỏi người dùng thông tin và hiển thị thông tin ra màn hình
 # import datetime
 
 # def ask_yes_no(prompt):
@@ -80,6 +80,7 @@
 
 
 
+# Chương trình tình tiền đi trợ và hỗ trợ khách hàng cho nhân viên bán hàng
 # def calc_total_price(apple_weight, APPLE_PRICE):
 # 	return apple_weight * APPLE_PRICE
 
@@ -150,6 +151,7 @@
 
 
 
+# Chương trình chơi nhạc Youtube với nhiều menu
 # import webbrowser
 
 # class Video:
@@ -367,6 +369,7 @@
 
 
 
+# Chương trình chơi nhạc Youtube hoàn thiện có đồ họa và nút bấm
 import pygame
 import webbrowser
 
